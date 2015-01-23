@@ -10,4 +10,4 @@ Support API and implementation coarse-grained server authorization based on regi
 `1.0.0-RC2`
 
 ### Supported CAS version
-The minimum supported CAS server version is `4.0.x`
+The minimum supported CAS server version is `4.1.x`
